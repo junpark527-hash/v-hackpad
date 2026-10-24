@@ -9,10 +9,10 @@ Custom macropad parts, built for the NASA x Hack Club Stardance Challenge.
 This is my second project related to a hackpad this summer and I have faced severely less difficulties than my first time. I am glad that I was able to retain most of the skills I learned previously and use them again. My build consists of an encoder, some keys, and a case.
 
 # Features:
-a 2-part case (3D printed)
-EC11 Rotary encoder
-3 keys/switches
-4 M2 heatset inserts and screws
+* a 2-part case (3D printed)
+* EC11 Rotary encoder
+* 3 keys/switches
+* 4 M2 heatset inserts and screws
 
 # CAD Model
 <img width="1736" height="1176" alt="image" src="https://github.com/user-attachments/assets/f10e7b99-a660-441e-b5a4-158e6a4b8fa5" />
